@@ -3,7 +3,7 @@
 
 <h1 align="center">Ultraviolet</h1>
 
-<p align="center">Advanced web proxy used for evading internet censorship or accessing websites in a controlled sandbox.<br><br>
+<p align="center">Godwin is an absolute g. deep run sucks. unblock all your websites here. <br><br>
 Ultraviolet works by intercepting HTTP requests with a service worker script that follows the <a href="https://github.com/tomphttp">TompHTTP</a> specifications</p>
 
 ## Features
